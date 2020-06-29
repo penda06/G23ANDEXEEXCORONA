@@ -1,0 +1,118 @@
+.collapse{
+  width: 100%;
+  color: white; 
+
+
+}
+.navbar{
+
+color: white; 
+background-color: rgb(9, 19, 19);
+
+
+
+}
+.navbar-nav {
+
+color: white; 
+}
+li{
+  color: white;  
+}
+
+
+
+.container{
+width: 100%;  
+height: 2200px;
+
+
+} 
+ .img1{
+width: 99.9%;
+height: 600px;
+
+
+
+} 
+
+.row{ 
+   width: 100%;
+  height:auto;
+ 
+}
+ 
+.logo{
+  width: 80px;
+  height: 50px;
+ 
+  
+  
+  }
+ 
+
+ .col-lg-8{
+ 
+width: 100%;
+height: auto;
+
+   
+  }
+
+  .col-lg-6{
+
+width: 100%;
+height: auto;
+
+   
+  } 
+  .col-lg-4{
+
+width: 100%;
+height: auto;
+
+       
+      }
+.manif{
+width: 300px;
+height: auto;
+}
+.preven{
+width: 500px;
+height: 500px;
+
+
+}
+.carte{
+  width: 600px;
+  height: 450px;
+  margin-left: 90px;
+  margin-top:-100px;
+  
+  
+  }
+  .footer {
+  background-color: black;
+  width: 100%;
+  height: 200px;
+
+  }
+  .vert{
+  color:white;
+  align-content: center;
+ 
+
+  }
+  .trait{
+    background-color: green;
+    width:500px ;
+  }
+  .preven2{
+
+  float: left;  
+  }
+  .prev{
+  width: 500px;
+  height: auto;
+
+  }
